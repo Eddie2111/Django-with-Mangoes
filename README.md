@@ -1,5 +1,5 @@
 # Django-with-Mangoes
-A customizable python backend system with 5 pages in it
+A customizable python backend system with 5 pages (apps) in it
 
 
 ### step 1: create views capturing request and sending functions in httpresponse
